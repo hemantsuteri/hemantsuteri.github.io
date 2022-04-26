@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hemantsuteri.me/sitemap.xml
+Host: https://hemantsuteri.me
